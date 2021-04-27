@@ -1,4 +1,4 @@
-# Multi Threading Java Algorithm Library
+# Multi Threading Java Sorting Library
 
 ## Prerequisites:
 
